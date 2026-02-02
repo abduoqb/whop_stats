@@ -1,0 +1,3 @@
+https://img-v2-prod.whop.com/unsafe/rs:fit:64:0/plain/https%3A%2F%2Fcontent.whop.com%2Fdefault_avatars%2Fpirate.png@avif?w=64&q=75
+
+Cannot download image; Failed to fetch
