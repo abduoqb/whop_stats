@@ -21,7 +21,7 @@ export const transactionsData = [
   { id: 17, date: "2026-02-04", type: "revenue", amount: 97 },
   { id: 18, date: "2026-02-06", type: "revenue", amount: 97 },
   { id: 23, date: "2026-02-03", type: "revenue", amount: 97 },
-  { id: 25, date: "2026-02-09", type: "commission", amount: 97 },
+  { id: 25, date: "2026-02-09", type: "revenue", amount: 97 },
   { id: 9, date: "2026-01-28", type: "referral", amount: 1 },
   { id: 10, date: "2026-01-29", type: "referral", amount: 1 },
   { id: 11, date: "2026-01-30", type: "referral", amount: 1 },
